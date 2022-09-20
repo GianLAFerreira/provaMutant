@@ -29,13 +29,13 @@ O terceiro projeto deve ser testado nos endpoints
 ## 🚀 Exemplos
 
  <p align="center">
- <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_2.jpg?raw=true" alt="Postman" />
+ <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_3.jpg?raw=true" alt="Postman" />
 </p>
  <p align="center">
- <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_2.jpg?raw=true" alt="Postman" />
+ <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_4.jpg?raw=true" alt="Postman" />
 </p>
  <p align="center">
- <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_2.jpg?raw=true" alt="Postman" />
+ <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_5.jpg?raw=true" alt="Postman" />
 </p>
 
 ## 💻 Projeto
