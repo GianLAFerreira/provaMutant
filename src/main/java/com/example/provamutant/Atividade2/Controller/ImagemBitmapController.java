@@ -11,7 +11,7 @@ import javax.inject.Inject;
 import java.util.Collection;
 
 @RestController
-@RequestMapping("/atividade1")
+@RequestMapping("/atividade2")
 public class ImagemBitmapController {
 
     @Inject

@@ -3,32 +3,40 @@
 </h1>
 
 <p align="center">
- <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_1.jpg?raw=true" alt="Home page" />
+ <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_1.jpg?raw=true" alt="Package" />
  <br>
 
 Rode o primeiro projeto localmente para realizar os testes.
 
-O segundo projeto deve ser testado no endpoint localhost:8080/atividade1/
-
+O segundo projeto deve ser testado no endpoint localhost:8080/atividade2/
+<br>
+Vc pode passar os valores do vetor como parametro
 
  <p align="center">
- <img src="https://raw.githubusercontent.com/GianLAFerreira/assets/main/New_transactions.png" alt="New transaction" />
-
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+ <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_2.jpg?raw=true" alt="Postman" />
 </p>
 
+O terceiro projeto deve ser testado nos endpoints
+
+-localhost:8080/superherorace/melhorVolta
 <br>
+-localhost:8080/superherorace/velocidademedia
+<br>
+-localhost:8080/superherorace/melhorVoltaSuperHeroi
 
 
 
-## 🚀 Tecnologias
+## 🚀 Exemplos
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML
-- CSS
-- JavaScript
+ <p align="center">
+ <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_2.jpg?raw=true" alt="Postman" />
+</p>
+ <p align="center">
+ <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_2.jpg?raw=true" alt="Postman" />
+</p>
+ <p align="center">
+ <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_2.jpg?raw=true" alt="Postman" />
+</p>
 
 ## 💻 Projeto
 

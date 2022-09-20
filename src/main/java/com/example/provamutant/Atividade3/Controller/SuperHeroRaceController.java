@@ -24,14 +24,10 @@ public class SuperHeroRaceController {
     SuperHeroiCorridaService superHeroRaceService;
 
     @PostMapping("/verificarLogCorrida")
-    public ResponseEntity<JSONObject> verificarLogCorrida(@RequestBody String logCorrida){
+    public ResponseEntity<String> verificarLogCorrida(@RequestBody String logCorrida){
 
-        String str = superHeroRaceService.verificarLog(logCorrida);
-        System.out.println(str);
 
-        JSONObject jsonObject = new JSONObject(str);
-
-        return ResponseEntity.ok().body(jsonObject);
+        return ResponseEntity.ok().body(superHeroRaceService.verificarLog(logCorrida));
     }
 
     @PostMapping("/melhorVolta")
