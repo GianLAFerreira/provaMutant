@@ -3,8 +3,13 @@
 </h1>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/GianLAFerreira/assets/main/Inicial_page.png" alt="Home page" />
+ <img src="https://github.com/GianLAFerreira/provaMutant/blob/main/IMG/Screenshot_1.jpg?raw=true" alt="Home page" />
  <br>
+
+Rode o primeiro projeto localmente para realizar os testes.
+
+O segundo projeto deve ser testado no endpoint localhost:8080/atividade1/
+
 
  <p align="center">
  <img src="https://raw.githubusercontent.com/GianLAFerreira/assets/main/New_transactions.png" alt="New transaction" />
